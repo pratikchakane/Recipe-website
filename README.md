@@ -1,1 +1,1 @@
-# Recipe-website
+These is a recipe app where we can search recipe and visit the recipe it shows the 20 recipe at a time. it developed  by using Edamam api which can help to search recipe.
